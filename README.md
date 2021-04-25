@@ -19,4 +19,15 @@ In this project, Objetive is to building a model for predicting wine qualities. 
 
 <h2>Requirements</h2>
 
+import numpy as np
 import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+from sklearn.ensemble import IsolationForest
+from sklearn.preprocessing import StandardScaler, MinMaxScaler
+from sklearn.model_selection import train_test_split
+from sklearn.model_selection import  GridSearchCV
+from sklearn.metrics import confusion_matrix, accuracy_score,precision_score, recall_score, f1_score, classification_report
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import GradientBoostingClassifier
