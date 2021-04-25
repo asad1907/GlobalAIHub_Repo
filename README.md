@@ -19,6 +19,7 @@ In this project, Objetive is to building a model for predicting wine qualities. 
 
 <h2>Requirements</h2>
 
+'''python
 import numpy as np <br>
 import pandas as pd <br>
 import seaborn as sns <br>
@@ -31,3 +32,4 @@ from sklearn.metrics import confusion_matrix, accuracy_score,precision_score, re
 from sklearn.tree import DecisionTreeClassifier <br>
 from sklearn.ensemble import RandomForestClassifier <br>
 from sklearn.ensemble import GradientBoostingClassifier <br>
+'''
