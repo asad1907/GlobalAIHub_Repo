@@ -4,7 +4,7 @@ Global AI Hub Student Repository includes Homeworks and a Final Project related 
 
 <img src = "Images/logo.png">
 
-**Course Date: 25.04.2021** <br>
+**Course Date: 19.04.2021** <br>
 **Name: Asad** <br>
 **Surname: Asadzade** <br>
 **Email: asadasadzade95@gmail.com** <br>
