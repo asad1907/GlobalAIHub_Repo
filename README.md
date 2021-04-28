@@ -33,3 +33,8 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.ensemble import GradientBoostingClassifier
 ```
+
+
+<h2>Certificate</h2>
+
+<img src = "Images/85042001822228.png">
